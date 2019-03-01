@@ -12,3 +12,6 @@ Build on data  session, how does tableau create a viz, read data? What data/meta
 What does GPS stand for?
 Who uses Geospatial Data?
 Why would it matter to me in the humanities???
+
+Hi Rafia.
+How's it going?
