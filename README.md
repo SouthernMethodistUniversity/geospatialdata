@@ -45,9 +45,9 @@ What you will find in this Repository
 
 -----
 
-[Geospatial Data](sections/logistics.md)  
+[Geospatial Data](sections/geospatial.md)  
 
-[Storymaps](sections/sotrymaps.md)
+[Storymaps](sections/storymaps.md)
 
 [Readings](sections/readings.md)  
 
