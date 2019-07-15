@@ -1,7 +1,20 @@
 # Geospatial Data 
 * A Foundational Approach to Digital Humanities Research
 
-* As part of our welcome process, we’ll provide some of the history of the project, review the schedule,establish the objectives for the Institute, and ask participants to engage in an introductions and ice breaker activity. We’ll review the objectives and the schedule for the next few days, sort out pedagogical practices, and set our ambitious course for our time together. Everything we do throughout the institute is collaboratively and community-driven. 
+# What is geospatial data
+
+Lesson: 
+Mention can use r (https://www.rspatial.org/)
+
+Discuss DH tools link to DH  repo , discussion of dh programming, tools etc
+
+use: storymaps
+
+Build on data  session, how does tableau create a viz, read data? What data/metadata/admin data is it looking at?  
+
+What does GPS stand for?
+Who uses Geospatial Data?
+Why would it matter to me in the humanities???
 
 * Instructors/facilitators : Jessie Z
 * Helpers: TBA
