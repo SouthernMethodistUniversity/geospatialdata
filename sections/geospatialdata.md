@@ -1,7 +1,7 @@
 [Next >>>](storymaps.md) 
 
 # What is geospatial data ?
-"geographic data is data with implicit or explicit reference to a location relative to the Earth"[via Geolexica] (https://www.geolexica.org/concepts/202/)
+"geographic data is data with implicit or explicit reference to a location relative to the Earth"[via Geolexica](https://www.geolexica.org/concepts/202/)
 * What does GPS stand for?
 * Who uses Geospatial Data?
 * Why would it matter to me in the humanities?

@@ -27,7 +27,6 @@ What you will find in this Repository
 [Follow up](sections/continue.md)
 
 
-
 Related Repositories:
 * [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
 * [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
@@ -35,6 +34,7 @@ Related Repositories:
 -----
 
 Session Leaders: Jessie Zarazaga
+
 Partially based on previous work by GCDI staff: [Create A Rich Multimedia Narrative with ESRI Story Maps By Olivia Ildefonso, GC Digital Fellow](https://www.arcgis.com/apps/Cascade/index.html?appid=581c9883c9fa4bab8f8048eaa130a813)
 
 Written by GCDI staff & Rafia Mirza.
