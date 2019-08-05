@@ -1,50 +1,17 @@
+[<<< Previous](storymaps.md)
+
 # Following up
 
-* How to continue building a CoP? 
-
-  * Communities 
-
-[Dedman College Interdisciplinary Institute Research Clusters](https://www.smu.edu/Dedman/DCII/Programs/ResearchClusters)
-
-[Think Play Hack ](https://github.com/SouthernMethodistUniversity/think-play-hack)
-
-[Digital Frontiers](https://digital-frontiers.org/)
-
-   * Lessons
+Can follow up on this lesson with:
 
 
-[OIT](https://www.smu.edu/OIT/Training) 
+[GIS@SMU: Initiative for Spatial Literacy](https://www.smu.edu/Libraries/fondren/services/gis)
 
-[LinkedIn Learning with Lynda.com @SMU](https://www.smu.edu/OIT/Services/LinkedIn)
+[Spatial Data Science with R](https://www.rspatial.org/)
 
-[Code Academy](https://www.codecademy.com/) 
-
-[Programming Historian ](https://programminghistorian.org/)
-
-
-
+[<<< Previous](storymaps.md)
 -----
 
-[Logistics](logistics.md)  
-
-[Slack](Slack.md)  
-
-[Readings](readings.md)  
-
-[DHRI Background](DHRI.md)  
-
-[What is DH?](DH.md)  
-
-[How do we do that?](how.md)
-
-[Why coding?](why.md)
-
-[Follow up](continue.md)
-
-Written by Rafia Mirza
-
-[![Creative Commons License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
-
-[ When sharing this material or derivative works, preserve this paragraph, changing only the title of the derivative work, or provide comparable attribution.
-
+-----
+[Return to introduction](https://github.com/DHRISMU/geospatialdata)
   
