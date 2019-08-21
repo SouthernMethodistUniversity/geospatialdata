@@ -11,7 +11,11 @@
 
 
 In this session we will:
-* Jessie will add here
+*Learn to sign on to arcGIS online
+Learn to make an online map
+Learn to make a storymap with different data types
+Learn to bring the other data plus the spatial data together
+Talk about other things that could be done with GIS, including analysis and how to learn that*
 
 [Next >>>](sections/geospatialdata.md)  
 ----
