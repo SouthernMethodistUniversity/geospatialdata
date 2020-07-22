@@ -25,7 +25,7 @@ Your goals and your constraints (limitations of time, money, expertise, etc.) wi
 
 ## categories 
 
-[![tasks](https://github.com/SouthernMethodistUniversity/ecology/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
+[![tasks](https://github.com/SouthernMethodistUniversity/tools/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
 Your goals and your constraints (limitations of time, money etc.) will dictate your choices (of lessons, training, partners, tools etc.)
 
 
