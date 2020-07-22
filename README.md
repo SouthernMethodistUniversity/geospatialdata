@@ -38,9 +38,9 @@ What you will find in this Repository
 
 -----
 
-[Choose a Tool](sections/failure.md)  
+[Choose a Tool](sections/choose.md)  
 
-[Choose a Tool: Geospatial data](sections/sgeospatialmd)
+[Choose a Tool: Geospatial data](sections/geospatial.md)
 
 [Follow up](sections/continue.md)
 
