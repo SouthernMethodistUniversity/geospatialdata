@@ -1,9 +1,6 @@
-[<<< Previous](storymaps.md)
+[<<< Previous](geospatial.md)
 
-# Following up
-
-Can follow up on this lesson with:
-
+# Following up: GIS
 
 [GIS@SMU: Initiative for Spatial Literacy](https://www.smu.edu/Libraries/fondren/services/gis)
 
@@ -13,5 +10,8 @@ Can follow up on this lesson with:
 -----
 
 -----
-[Return to introduction](https://github.com/DHRISMU/geospatialdata)
+[<<< Previous](geospatial.md)
+
+-----
+[Return to introduction](https://github.com/SouthernMethodistUniversity/toolsa)
   

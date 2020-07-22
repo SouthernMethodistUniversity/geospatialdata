@@ -1,45 +1,55 @@
-# Geospatial Data 
-
-## What is geospatial data
-* ["Spatial literacy is the competent and confident use of maps, mapping, and spatial thinking to address ideas, situations, and problems within daily life, society, and the world around us.](https://www.smu.edu/libraries/fondren/services/gis) 
-    * Diana Stuart Sinton, Cornell University & Executive Director of the University Consortium for Geographic Information Science (UCGIS)
 
 
+# Digital Projects, Research and Tools
 
-* Instructors/facilitators : Jessie Zarazaga
-* Helpers: Rafia Mirza
+We have been discussing different aspects and stages of digital scholarship projects. 
+
+## Broadly, you may have goals around: 
+### Sources (data or other materials you want to analyze)
+* Digital Humanities and Data
+* Acquiring, Cleaning, and Creating Data
+* Identify the differences between unstructured, semi-structured, and structured data.
+* Distinguish between different file types, their definitions, and applications.
+* Apply intellectual property rights to the downloading and sharing of data.
+* Practice different ways of downloading or creating data.
+### Processing (how can these resources be analyzed or prepared for analysis) 
+* The Command Line (Python)
+* Working with Tools (openrefine, Voyant)
+### Presentation (how do you want to share your sources and your findings). 
 
 
-In this session we will:
-*Learn to sign on to arcGIS online
-Learn to make an online map
-Learn to make a storymap with different data types
-Learn to bring the other data plus the spatial data together
-Talk about other things that could be done with GIS, including analysis and how to learn that*
+Your goals and your constraints (limitations of time, money, expertise, etc.) will dictate your choices (topic, tools, programming, etc.)
 
-[Next >>>](sections/geospatialdata.md)  
+* In this example from Programming historian, you can see how lessons fall into broard phases or categories. 
+
+
+## categories 
+
+[![tasks](https://github.com/SouthernMethodistUniversity/ecology/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
+Your goals and your constraints (limitations of time, money etc.) will dictate your choices (of lessons, training, partners, tools etc.)
+
+
+
+[Next >>>](sections/choose.md)  
 ----
 
 What you will find in this Repository
 
 -----
 
-[Geospatial Data](sections/geospatialdata.md)  
+[Choose a Tool](sections/failure.md)  
 
-[Storymaps](sections/storymaps.md)
+[Choose a Tool: Geospatial data](sections/sgeospatialmd)
 
 [Follow up](sections/continue.md)
 
 
-Related Repositories:
-* [Installation instructions for required software](https://github.com/DHRI-Curriculum/install)
-* [Glossary for all sessions](https://github.com/DHRI-Curriculum/glossary)
 
 -----
 
-Session Leaders: Jessie Zarazaga
+Session Leaders: Rafia Mirza
 
-Partially based on previous work by GCDI staff: [Create A Rich Multimedia Narrative with ESRI Story Maps By Olivia Ildefonso, GC Digital Fellow](https://www.arcgis.com/apps/Cascade/index.html?appid=581c9883c9fa4bab8f8048eaa130a813)
+Partially based on previous work by Jessie Zarazaga and  GCDI staff: [Create A Rich Multimedia Narrative with ESRI Story Maps By Olivia Ildefonso, GC Digital Fellow](https://www.arcgis.com/apps/Cascade/index.html?appid=581c9883c9fa4bab8f8048eaa130a813)
 
 Written by GCDI staff & Rafia Mirza.
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
