@@ -23,10 +23,11 @@ Your goals and your constraints (limitations of time, money, expertise, etc.) wi
 * In this example from Programming historian, you can see how lessons fall into broard phases or categories. 
 
 
-## categories 
+## Goals: What is it you want to do? 
+* Your goals and your constraints (limitations of time, money etc.) will dictate your choices (of lessons, training, partners, tools etc.)
 
 [![tasks](https://github.com/SouthernMethodistUniversity/tools/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
-Your goals and your constraints (limitations of time, money etc.) will dictate your choices (of lessons, training, partners, tools etc.)
+
 
 
 
