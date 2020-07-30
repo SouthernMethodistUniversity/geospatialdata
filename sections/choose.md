@@ -9,21 +9,33 @@ It's not working!
 * ["It Doesn't Work:" Failure and DH Tools(text)](http://quinndombrowski.com/?q=blog/2020/07/21/it-doesnt-work-failure-and-dh-tools)
 * "But let’s first talk about DH tools, and the ways they “don’t work”. One thing I’ve learned, over my years of doing direct end-user support, is that — what it is that “doesn’t work” often depends on your perspective."
 
-# Pick a tool
+-------
+Three sections for Tools: 
 
+## What are the range of tools available
+* Exposure to Range of Tools for DH
+* **Activity:** If we look at different website for a tool, what assumptions did the tools designers make about what users are trying to do?  
+* [Choose from this list of tools from Duke](https://digitalhumanities.duke.edu/tools)
+
+## How to evaluate a tool
+* How do you asses what the tools does, and what the tool needs from you to work. 
 * Just as we discussed computers being very literal, tools are also very literal. What we might call failure may be a mismatch between a user's expectations and a tool’s construction. 
 * How might you choose and assess a tool?
 * What are you trying to do? *This will dictate your selection*  
-* Just as we looked at a project website to see how they did their project, we will now do that with a DH tools website.
+* Just as we looked at a project website to see how they did their project, we will now do that with a DH tool website.
+    * What do they say in their documentation?
+    * What is the tool set up to help the user do?
+    * Does it do what you want? If not why? Can you find a tool that does?
 
-### Challenge: If we look at different website for a tool, what assumptions did the tools designers make about what users are trying to do? * 
-* What do they say in their documentation?
-* What is the tool set up to help the user do?
-* Does it do what you want? If not why? Can you find a tool that does?
+## How to plan around your tools 
+* Given the affordances and limitations of the tool we discussed, how does it impact what you can do? 
+* If you approach tool or methodology first, you might have to modify other parts of you project to fit the tool. 
+* Conversely something with the capacity for a lot of customization might be more then you need. 
+* What are you trying to do? What is your goal in regards to learning curve/output/publications?  
 
-[Choose from this list of tools from Duke](https://digitalhumanities.duke.edu/tools)
 
-[<<< Previous](https://github.com/SouthernMethodistUniversity/tools)| [Next >>>](geospatial.md) 
+
+[<<< Previous](https://github.com/SouthernMethodistUniversity/tools)| [Next >>>](geospatialdata.md) 
 
 -----
 

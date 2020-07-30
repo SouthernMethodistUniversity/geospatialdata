@@ -17,17 +17,12 @@ We have been discussing different aspects and stages of digital scholarship proj
 * Working with Tools (openrefine, Voyant)
 ### Presentation (how do you want to share your sources and your findings). 
 
+## Goals: What is it you want to do?
+* Where are you in the process? 
+* Your goals and your constraints (limitations of time, money, expertise, etc.) will dictate your choices (topics, training, partners, tools . programming, etc.)
 
-Your goals and your constraints (limitations of time, money, expertise, etc.) will dictate your choices (topic, tools, programming, etc.)
-
-* In this example from Programming historian, you can see how lessons fall into broard phases or categories. 
-
-
-## Goals: What is it you want to do? 
-* Your goals and your constraints (limitations of time, money etc.) will dictate your choices (of lessons, training, partners, tools etc.)
-
+* In this example from Programming Historian, you can see how lessons fall into broard phases or categories. 
 [![tasks](https://github.com/SouthernMethodistUniversity/tools/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
-
 
 
 

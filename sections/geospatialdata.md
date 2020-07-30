@@ -6,6 +6,7 @@
 * What kinds of data are you working with? 
 * Geospatial Data 
 * There are many tools for working with geospatial data. What is your end goal? 
+* Is it important to your project that you analyze your data (processing and/or manipulating your data) or so you just want to create a map/visualization? (presentation of your data).
 
 ## What is geospatial data
 * ["Spatial literacy is the competent and confident use of maps, mapping, and spatial thinking to address ideas, situations, and problems within daily life, society, and the world around us.](https://www.smu.edu/libraries/fondren/services/gis) 
@@ -27,11 +28,13 @@ In this session we are building on what we discussed in the previous data sessio
 * How does it read your data? What kinds of data (metadata, administrative, geospatial) data is it looking at?  
 * For todays lesson, our goal is *to make a map.* 
 
+# A tool for geospatial analysis: ARC-GIS
+* ARC-GIS contains data *sources*, allows for *processing and analysis* of that data, and you can use it to create an *output* of maps. 
 
 # A tool for mapping: Storymaps 
-
 * [What does this tool allow you to do?](https://storymaps.arcgis.com/)
 * [Create A Rich Multimedia Narrative with ESRI Story Maps By Olivia Ildefonso, GC Digital Fellow](https://www.arcgis.com/apps/Cascade/index.html?appid=581c9883c9fa4bab8f8048eaa130a813)
+
 
 -----
 [<<< Previous](choose.md)| [Next >>>](continue.md) 
