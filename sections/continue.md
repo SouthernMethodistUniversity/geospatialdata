@@ -1,4 +1,4 @@
-[<<< Previous](geospatial.md)
+[<<< Previous](geodata.md)
 
 # Following up: GIS
 
@@ -13,11 +13,8 @@
 
 [Here the UNC Digital Innovation Lab has provided a range of platforms, plug-ins, readings, and other items that might be of use. Different projects are better suited to different sets of tools and related resources.](https://cdh.unc.edu/resources/tools/)
 
-[<<< Previous](storymaps.md)
 -----
-
------
-[<<< Previous](geospatialdata.md)
+[<<< Previous](geodata.md)
 
 -----
 [Return to introduction](https://github.com/SouthernMethodistUniversity/tools)

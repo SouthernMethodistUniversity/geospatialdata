@@ -1,8 +1,7 @@
-[<<< Previous](https://github.com/SouthernMethodistUniversity/tools)| [Next >>>](geospatial.md) 
+[<<< Previous](https://github.com/SouthernMethodistUniversity/tools)| [Next >>>](geodata.md) 
 
-It's not working! 
 
-# Failure and DH tools 
+# Failure and DH tools: It's not working!  
 
 * ["It Doesn't Work:" Failure and DH Tools(video)](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b012f49-5821-411f-bbb3-abf800f3eb54)
 
@@ -10,12 +9,16 @@ It's not working!
 * "But let’s first talk about DH tools, and the ways they “don’t work”. One thing I’ve learned, over my years of doing direct end-user support, is that — what it is that “doesn’t work” often depends on your perspective."
 
 -------
-Three sections for Tools: 
 
-## What are the range of tools available
-* Exposure to Range of Tools for DH
-* **Activity:** If we look at different website for a tool, what assumptions did the tools designers make about what users are trying to do?  
+## What are the types of tools available
+* What is it you are trying to do, and does a tool exist for your particular need?  
+* **Activity:** If we look at a website for a particular tool, what assumptions did the tools' designers make about what users are trying to do?  
 * [Choose from this list of tools from Duke](https://digitalhumanities.duke.edu/tools)
+* What does it do?  
+* How does it do it? 
+* What was it designed for? 
+* How might it be limited? 
+* How might we expand past those limitations? 
 
 ## How to evaluate a tool
 * How do you asses what the tools does, and what the tool needs from you to work. 
@@ -33,9 +36,12 @@ Three sections for Tools:
 * Conversely something with the capacity for a lot of customization might be more then you need. 
 * What are you trying to do? What is your goal in regards to learning curve/output/publications?  
 
+## How do you approach choosing a tool for classroom use? 
+* How do you create an accurate mental model of a tool ? 
+* [Design DH assignments: link TBA]
 
 
-[<<< Previous](https://github.com/SouthernMethodistUniversity/tools)| [Next >>>](geospatialdata.md) 
+[<<< Previous](https://github.com/SouthernMethodistUniversity/tools)| [Next >>>](geodata.md) 
 
 -----
 

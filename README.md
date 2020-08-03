@@ -2,7 +2,11 @@
 
 # Digital Projects, Research and Tools
 
-We have been discussing different aspects and stages of digital scholarship projects. 
+We have been discussing different aspects and stages of digital scholarship projects. In this session we will discuss how you can find and assess tools.  
+
+## Required before session
+**Read the following post .**
+* ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
 
 ## Broadly, you may have goals around: 
 ### Sources (data or other materials you want to analyze)
@@ -35,7 +39,7 @@ What you will find in this Repository
 
 [Choose a Tool](sections/choose.md)  
 
-[Choose a Tool: Geospatial data](sections/geospatial.md)
+[Choose a Tool: Geospatial data](sections/geodata.md)
 
 [Follow up](sections/continue.md)
 
@@ -45,9 +49,7 @@ What you will find in this Repository
 
 Session Leaders: Rafia Mirza
 
-Partially based on previous work by Jessie Zarazaga and  GCDI staff: [Create A Rich Multimedia Narrative with ESRI Story Maps By Olivia Ildefonso, GC Digital Fellow](https://www.arcgis.com/apps/Cascade/index.html?appid=581c9883c9fa4bab8f8048eaa130a813)
-
-Written by GCDI staff & Rafia Mirza.
+Written by Rafia Mirza.
 Our curriculum is based on the Digital Research Institute (DHRI) Curriculum by Graduate Center Digital Initiatives.   
 [This repository contains information for using and contributing to the Digital Humanities Research Institute curriculum](https://github.com/DHRI-Curriculum/guide) 
 
