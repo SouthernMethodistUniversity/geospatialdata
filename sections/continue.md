@@ -1,7 +1,7 @@
 [<<< Previous](geodata.md)
 
 # Following up
-## GIS
+## GIS and spatial data
 
 [GIS@SMU: Initiative for Spatial Literacy](https://www.smu.edu/Libraries/fondren/services/gis)
 
