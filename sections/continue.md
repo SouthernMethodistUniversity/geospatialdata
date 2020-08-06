@@ -1,12 +1,13 @@
 [<<< Previous](geodata.md)
 
-# Following up: GIS
+# Following up
+## GIS
 
 [GIS@SMU: Initiative for Spatial Literacy](https://www.smu.edu/Libraries/fondren/services/gis)
 
 [Spatial Data Science with R](https://www.rspatial.org/)
 
-# Tools
+## Tools
 "There is typically an inverse relation between the power of the tool and the graphical nature of the interface: to maximize performance get comfortable on the command line." [Text Mining Tools in the Humanities: An Analysis Framework](http://journalofdigitalhumanities.org/2-3/text-mining-tools-in-the-humanities-an-analysis-framework/)  
 
 [Determining Value for Digital Humanities Tools: Report on a Survey of Tool Developers](http://digitalhumanities.org/dhq/vol/4/2/000083/000083.html)
