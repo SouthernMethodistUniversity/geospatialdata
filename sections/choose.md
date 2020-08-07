@@ -39,7 +39,7 @@
 
 ## How do you approach choosing a tool for classroom use? 
 * How do you create an accurate mental model of a tool ? 
-* [Design DH assignments: link TBA]
+* [Design DH assignments:](https://docs.google.com/presentation/d/1NfKpBmQ_zTgORmcaLemTEfF_obj16CVej2iebTTlgEc/edit)
 
 
 [<<< Previous](https://github.com/SouthernMethodistUniversity/tools) | [Next >>>](geodata.md) 
