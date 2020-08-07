@@ -25,7 +25,7 @@ In this session we are building on what we discussed in the previous data sessio
 
 ## Determining what tool you need for your project
 ### A tool for geospatial analysis: ARC-GIS
-* ARC-GIS contains data *sources*, allows for *processing and analysis* of that data, and you can use it to create an *output* of maps. 
+* ARC-GIS contains data *sources*, allows for *processing and analysis* of that data, and you can use it to create an presentation layer or *output* of maps. 
 
 ### A tool for mapping: Storymaps 
 * [What does this tool allow you to do?](https://storymaps.arcgis.com/)
