@@ -24,7 +24,7 @@ In this session we are building on what we discussed in the previous data sessio
 * For today's lesson, our goal is *to make a map.* 
 
 ## Determining what tool you need for your project
-* A tool for mapping:[Storymaps](https://storymaps.arcgis.com/)
+* A tool for mapping: [Storymaps](https://storymaps.arcgis.com/)
     * [Create A Rich Multimedia Narrative with ESRI Story Maps By Olivia Ildefonso, GC Digital Fellow](https://www.arcgis.com/apps/Cascade/index.html?appid=581c9883c9fa4bab8f8048eaa130a813)
 * A tool for  data viz: [Tableau Public](https://public.tableau.com/en-us/s/)
 * A tool for geospatial analysis: [ARC-GIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
