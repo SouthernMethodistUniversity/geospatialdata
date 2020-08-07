@@ -6,7 +6,10 @@ We have been discussing different aspects and stages of digital scholarship proj
 
 ## Required before session
 **Read the following post.**
+* We will use this a a frame for our discussion
 * ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
+* How does the author discuss communities of practice in DH? How have they changed for her? What is your experience with them? What do you think about the ‘eternal September’ metaphor? *What does it mean to practice as digital humanist?* 
+
 
 ## Broadly, you may have goals around: 
 ### Sources: What data or other materials do you want to analyze?
