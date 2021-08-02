@@ -4,14 +4,24 @@
 
 We have been discussing different aspects and stages of digital scholarship projects. In this session we will discuss how you can find and assess tools.  
 
-## Required before session
-**Read the following post.**
-* We will use this a a frame for our discussion
-* ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
-* How does the author discuss communities of practice in DH? How have they changed for her? What is your experience with them? What do you think about the ‘eternal September’ metaphor? *What does it mean to practice as digital humanist?* 
+## Process for DHRI
+* We will be sharing the links to a Github Repository for each session in Slack before each synchronous session. You can also get to them from the [Curriculum page](https://southernmethodistuniversity.github.io/home/curriculum.html).
+* This is the first year where DHRI has been planned to have both asynchronous and synchronous components. Here is how we have organized the content.  
+   * As you are reading, we you will see *four* categories of content:
+      * Asynchronous Content presentation (unmarked). Please read ahead of time.
+      * Asynchronous Activity (indicated by green check mark :white_check_mark:). Please make sure you read this content before a session. Some questions have corresponding Slack channels or discussion, others are just marked so you are thinking about them beforehand as they are topics we will be discussing in the synchronous session.  
+      * Synchronous Content presentation (indicated by a yellow dot :yellow_circle:). This indicates a page that has content we will go over together; you do not need to engage with this content ahead of time. 
+      * Synchronous Activity (unmarked). We will do these activities together in the synchronous sessions.
+* As you read each repository please put questions/comments in the Slack channel. 
+* If text appears blue in a repository, that just means it is a hyperlink.
+    * These repositories are structured in such a way that they will direct our conversations during the institute, but also so that you can return to them later to review the material. 
 
+## Required before this session (8/10/21)
+* All content is :white_check_mark: marked throughout; it is also all gathered on [this page](sections/async.md). 
 
+# How do you look for or choose a tool? Like any other type of a tool, you want to look for a tool that help you accomplish a specif task. What is it you are trying to do?
 ## Broadly, you may have goals around: 
+
 ### Sources: What data or other materials do you want to analyze?
 * Digital Humanities and data
 * Acquiring, cleaning, and creating data
@@ -25,6 +35,8 @@ We have been discussing different aspects and stages of digital scholarship proj
 * Working with Tools (openrefine, Voyant)
 
 ### Presenting: How do you want to share your sources and your findings?
+* Are you trying to create multiple discrete image for a text or presentations? 
+* Are you trying to create a static or interactive visualization? 
 
 ## Goals: What is it you want to do?
 * Where are you in the process? 
@@ -35,16 +47,18 @@ We have been discussing different aspects and stages of digital scholarship proj
 
 
 
-[Next >>>](sections/choose.md)  
+[Next >>>](sections/why.md)  
 ----
 
 What you will find in this Repository
 
 -----
 
-[Choose a Tool](sections/choose.md)  
+[Choose a Tool](sections/why.md)  
 
-[Choose a Tool: Geospatial data](sections/geodata.md)
+[How to choose a Tool](sections/how.md)
+
+[Required before this session (8/10/21)](sections/async.md)
 
 [Follow up](sections/continue.md)
 
