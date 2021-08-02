@@ -18,8 +18,7 @@
     * ["It Doesn't Work:" Failure and DH Tools *(video)*](https://univr.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=2b012f49-5821-411f-bbb3-abf800f3eb54)
     * ["It Doesn't Work:" Failure and DH Tools *(text)*](http://quinndombrowski.com/?q=blog/2020/07/21/it-doesnt-work-failure-and-dh-tools)
 
-
-## :white_check_mark: We will be using the framework from Nowviskie & Dombrowski to frame our discussion on how to search for tools.
+##  We will be using the framework from Nowviskie & Dombrowski to frame our synchronous discussion on how to search for tools.
 -----
 [<<< Previous](how.md) | [Next >>>](continue.md) 
 
