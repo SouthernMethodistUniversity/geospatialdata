@@ -22,9 +22,9 @@ We have been discussing different aspects and stages of digital scholarship proj
 # How do you look for or choose a tool?
 * Like any other type of a tool, you want to look for a tool that helps you accomplish a specific task. 
 * What is it you are trying to *do*?
+* * We are referring back to the [M. Posner reading](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) in this session.
 
-## Broadly, you may have goals around the following 
-* We are referring back to the [M. Posner reading.](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) 
+## Broadly, you may have goals around the following: 
 
 ### Sources: What data or other materials do you want to analyze?
 * Digital Humanities and data
@@ -42,7 +42,7 @@ We have been discussing different aspects and stages of digital scholarship proj
 * Are you trying to create multiple discrete image for a text or presentations? 
 * Are you trying to create a static or interactive visualization? 
 
-## Goals: What is it you want to do?
+#### Additional Considerations to "What is it you want to do"?
 * Where are you in the process? 
 * Your goals and your constraints (limitations of time, money, expertise, etc.) will dictate your choices (topics, training, partners, tools, programming, etc.)
 
