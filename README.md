@@ -19,7 +19,9 @@ We have been discussing different aspects and stages of digital scholarship proj
 ## Required before this session (8/10/21)
 * All content is :white_check_mark: marked throughout; it is also all gathered on [this page](sections/async.md). 
 
-# How do you look for or choose a tool? Like any other type of a tool, you want to look for a tool that help you accomplish a specif task. What is it you are trying to do?
+# How do you look for or choose a tool?
+* Like any other type of a tool, you want to look for a tool that help you accomplish a specif task. What is it you are trying to do?
+
 ## Broadly, you may have goals around: 
 
 ### Sources: What data or other materials do you want to analyze?
