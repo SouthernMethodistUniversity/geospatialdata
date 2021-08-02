@@ -3,7 +3,6 @@
 
 # Summary: **What to do before this synchronous session**
 
-## :white_check_mark: 
 ## eternal september 
 * :white_check_mark:**Read the following post.**
 * ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
