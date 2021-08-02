@@ -20,9 +20,11 @@ We have been discussing different aspects and stages of digital scholarship proj
 * All content is :white_check_mark: marked throughout; it is also all gathered on [this page](sections/async.md). 
 
 # How do you look for or choose a tool?
-* Like any other type of a tool, you want to look for a tool that help you accomplish a specif task. What is it you are trying to do?
+* Like any other type of a tool, you want to look for a tool that helps you accomplish a specific task. 
+* What is it you are trying to *do*?
 
-## Broadly, you may have goals around: 
+## Broadly, you may have goals around the following 
+* We are referring back to the [M. Posner reading.](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) 
 
 ### Sources: What data or other materials do you want to analyze?
 * Digital Humanities and data
