@@ -33,6 +33,7 @@
 * Just as we looked at a project website to see how they did their project, we will now do that with a DH tool website.
     * What do they say in their documentation?
     * What is the tool set up to help the user do?
+    * What do the examples look like?
     * Does it do what you want? If not, why? Can you find a tool that does?
 
 ## How to plan around your tools 
