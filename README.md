@@ -23,6 +23,7 @@ We have been discussing different aspects and stages of digital scholarship proj
 * Like any other type of a tool, you want to look for a tool that helps you accomplish a specific task. 
 * What is it you are trying to *do*?
 * * We are referring back to the [M. Posner reading](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) in this session.
+* * A tool is a 'fancy program' someone (or multiple someones) else wrote, what didi they create ti to do?
 
 ## Broadly, you may have goals around the following: 
 
