@@ -24,8 +24,8 @@ We have been discussing different aspects and stages of digital scholarship proj
 * What is it you are trying to *do*?
 * * We are referring back to the [M. Posner reading](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) in this session.
 * A tool is a 'fancy program' someone else (or multiple someones) wrote, what did they create it to do? 
-* Think about the stage you are at in your porject and does it do what you need at this stage?
-* * You can asses a tool like we asses a project. What does the about page say? Is there a gallery or exmaple page
+* Think about the stage you are at in your project and does it do what you need at this stage?
+* * You can asses a tool like we asses a project. What does *the about* page say? Is there a gallery or exmaple page? 
 
 ## Broadly, you may have goals around the following: 
 
