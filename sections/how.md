@@ -38,9 +38,11 @@
 
 ## How to plan around your tools 
 * Given the affordances and limitations of the tool we discussed, how does it impact what you can do? 
-* If you approach he tool or methodology first, you might have to modify other parts of you project to fit the tool. 
+* If you approach the tool or methodology first, you might have to modify other parts of you project to fit the tool. 
 * Conversely, something with the capacity for a lot of customization might be more than you need. 
-* What are you trying to do? What is your goal in regards to learning curve/output/publications?  
+* What are you trying to do? 
+* What stage of your porject would it be helpful in? 
+* What is your goal in regards to learning curve/output/publications?  
 
 ## How do you approach choosing a tool for classroom use? 
 * How do you create an accurate mental model of a tool ? 
