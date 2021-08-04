@@ -3,18 +3,7 @@
 
 -------
 
-## :yellow_circle: What are the types of tools available?
-* What is it you are trying to do? Does a tool exist for your particular need?  
-* **Activity:** If we look at a website for a particular tool, what assumptions did the tools' designers make about what users are trying to do?  
-    * [Choose from this list of tools from Duke.](https://digitalhumanities.duke.edu/tools) 
-    * Select one of the tools to consider its possibilities.
-        * What does it do?  
-        * How does it do it? 
-        * What was it designed for? 
-        * How might it be limited? 
-        * How might we expand past those limitations? 
-
- ## How to find a tool       
+ ## :yellow_circle:How to find a tool       
 * Note: There is **no** comprehensive list of DH tools. We recommend thinking of what type of tool you are looking for, using broad search terms, and searching on the open web for them. (Some Libraries or DH Centers do maintain small curated lists.) 
 * * You could see what a project with similar goala or methodolgies has done (refer back to M Posner). 
 * [Search Strategies: Internet Searching](https://guides.smu..edu/c.php?g=881916&p=6336295)
