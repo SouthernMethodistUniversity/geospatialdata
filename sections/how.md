@@ -16,7 +16,8 @@
 
  ## How to find a tool       
 * Note: There is **no** comprehensive list of DH tools. We recommend thinking of what type of tool you are looking for, using broad search terms, and searching on the open web for them. (Some Libraries or DH Centers do maintain small curated lists.) 
-* [Search Strategies: Internet Searching](https://guides.smu.edu/c.php?g=881916&p=6336295)
+* * You could see what a project with similar goala or methodolgies has done (refer back to M Posner). 
+* [Search Strategies: Internet Searching](https://guides.smu..edu/c.php?g=881916&p=6336295)
 * For example, perhaps you want a tool to create a timeline. Try searching in a search engine on variations of your task such as:
     * timeline
     * timeline tool
