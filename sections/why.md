@@ -1,13 +1,4 @@
-[<<< Previous](https://github.com/SouthernMethodistUniversity/tools)| [Next >>>](how.md) 
-
-## eternal september 
-* :white_check_mark:**Read the following post.**
-* ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
-* How does the author discuss communities of practice in DH? 
-* How have they changed for her? What is your experience with them? 
-*  * Think about a time you joined a new community (for exmaple: starting a new school (college, gradshcool), a new job (teaching), a new hobby, etc.) 
-* What do you think about the ‘eternal September’ metaphor? 
-* *What does it mean to practice as digital humanist?* 
+[<<< Previous](https://github.com/SouthernMethodistUniversity/tools) | [Next >>>](how.md) 
 
 # Failure and DH tools: It's not working!  
 * :white_check_mark: Watch the video *or* read the text of this talk *"It Doesn't Work:" Failure and DH Tools"* by Quinn Dombrowski.
