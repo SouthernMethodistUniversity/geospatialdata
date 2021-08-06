@@ -49,19 +49,16 @@ We have been discussing different aspects and stages of digital scholarship proj
 * Where are you in the process? 
 * Your goals and your constraints (limitations of time, money, expertise, etc.) will dictate your choices (topics, training, partners, tools, programming, etc.)
 
-In this example from Programming Historian, you can see how lessons fall into broad phases or categories. 
-[![tasks](https://github.com/SouthernMethodistUniversity/tools/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
+
 
 ## eternal september 
-:white_check_mark: **Read the following post.**
+* :white_check_mark:**Read the following post.**
 * ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
 * How does the author discuss communities of practice in DH? 
 * How have they changed for her? What is your experience with them? 
-*  * Think about a time you joined a new community (for example: starting a new school (college, grad school), a new job (teaching), a new hobby, etc.) 
+*  * Think about a time you joined a new community (for exmaple: starting a new school (college, gradshcool), a new job (teaching), a new hobby, etc.) 
 * What do you think about the ‘eternal September’ metaphor? 
 * *What does it mean to practice as digital humanist?* 
-
-
 
 [Next >>>](sections/why.md)  
 ----
