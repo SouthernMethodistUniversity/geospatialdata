@@ -52,11 +52,11 @@ We have been discussing different aspects and stages of digital scholarship proj
 
 
 ## eternal september 
-* :white_check_mark:**Read the following post.**
+:white_check_mark: **Read the following post.**
 * ***[eternal september of the digital humanities by Bethany Nowviskie](http://nowviskie.org/2010/eternal-september-of-the-digital-humanities/)***
 * How does the author discuss communities of practice in DH? 
 * How have they changed for her? What is your experience with them? 
-*  * Think about a time you joined a new community (for exmaple: starting a new school (college, gradshcool), a new job (teaching), a new hobby, etc.) 
+*  * Think about a time you joined a new community (for example: starting a new school (college, grad school), a new job (teaching), a new hobby, etc.) 
 * What do you think about the ‘eternal September’ metaphor? 
 * *What does it mean to practice as digital humanist?* 
 
