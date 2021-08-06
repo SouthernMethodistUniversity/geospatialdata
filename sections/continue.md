@@ -1,6 +1,6 @@
 [<<< Previous](geodata.md)
 
-# :yellow_circle:Additional Resources:yellow_circle:
+# :yellow_circle:Additional Resources :yellow_circle:
 ## GIS and spatial data
 
 [GIS@SMU: Initiative for Spatial Literacy](https://www.smu.edu/Libraries/fondren/services/gis)
