@@ -1,6 +1,6 @@
 
 
-# Digital Projects, Research and Tools
+# Digital projects, research and tools
 
 We have been discussing different aspects and stages of digital scholarship projects. In this session we will discuss how you can find and assess tools.  
 
@@ -19,37 +19,37 @@ We have been discussing different aspects and stages of digital scholarship proj
 ## Required before this session (8/10/21)
 * All content is :white_check_mark: marked throughout; it is also all gathered on [this page](sections/async.md). 
 
-# How do you look for or choose a tool?
+## How do you look for or choose a tool?
 * Like any other type of a tool, you want to look for a tool that helps you accomplish a specific task. 
 * What is it you are trying to *do*?
-* * We are referring back to the [M. Posner reading](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) in this session.
-* A tool is a 'fancy program' someone else (or multiple someones) wrote, what did they create it to do? 
-* Think about the stage you are at in your project and does it do what you need at this stage?
-* * You can asses a tool like we asses a project. What does *the about* page say? Is there a gallery or exmaple page? 
+    * We are referring back to the [M. Posner reading](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) in this session.
+* A tool is a 'fancy program' someone else (or multiple someones) wrote. What did they create it to do? 
+* Think about the stage you are at in your project. Does the tool do what you need at this stage? 
+    * You can asses a tool like we assess a project. What does the *About* page say? Is there a gallery or example page? 
 
-## Broadly, you may have goals around the following: 
+### You may have broad goals around the following: 
 
-### Sources: What data or other materials do you want to analyze?
+#### Sources: What data or other materials do you want to analyze?
 * Digital Humanities and data
 * Acquiring, cleaning, and creating data
 * Identifying the differences between unstructured, semi-structured, and structured data.
 * Distinguishing between different file types, their definitions, and applications.
 * Applying intellectual property rights to the downloading and sharing of data.
-* Practicing different ways of downloading or creating data.
+* Practicing different ways of downloading or broad creating data.
 
-### Processing: How can these resources/materials be analyzed or prepared for analysis?
+#### Processing: How can these resources/materials be analyzed or prepared for analysis?
 * The Command Line (Python)
-* Working with Tools (openrefine, Voyant)
+* Working with tools (openrefine, Voyant)
 
-### Presenting: How do you want to share your sources and your findings?
-* Are you trying to create multiple discrete image for a text or presentations? 
+#### Presenting: How do you want to share your sources and your findings?
+* Are you trying to create multiple discrete images for a text or presentations? 
 * Are you trying to create a static or interactive visualization? 
 
-#### Additional Considerations to "What is it you want to do"?
+#### Additional considerations to "What is it you want to do?"
 * Where are you in the process? 
 * Your goals and your constraints (limitations of time, money, expertise, etc.) will dictate your choices (topics, training, partners, tools, programming, etc.)
 
-* In this example from Programming Historian, you can see how lessons fall into broad phases or categories. 
+In this example from Programming Historian, you can see how lessons fall into broad phases or categories. 
 [![tasks](https://github.com/SouthernMethodistUniversity/tools/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)
 
 
@@ -57,13 +57,13 @@ We have been discussing different aspects and stages of digital scholarship proj
 [Next >>>](sections/why.md)  
 ----
 
-What you will find in this Repository
+What you will find in this repository.
 
 -----
 
-[Choose a Tool](sections/why.md)  
+[Choose a tool](sections/why.md)  
 
-[How to choose a Tool](sections/how.md)
+[How to choose a tool](sections/how.md)
 
 [Required before this session (8/10/21)](sections/async.md)
 
