@@ -25,7 +25,7 @@ We have been discussing different aspects and stages of digital scholarship proj
     * We are referring back to the [M. Posner reading](https://github.com/SouthernMethodistUniversity/intro/blob/master/sections/async.md#white_check_mark-read-the-following-post-and-watch-the-video-before-this-session) in this session.
 * A tool is a 'fancy program' someone else (or multiple someones) wrote. What did they create it to do? 
 * Think about the stage you are at in your project. Does the tool do what you need at this stage? 
-    * You can asses a tool like we assess a project. What does the *About* page say? Is there a gallery or example page? 
+    * You can assess a tool like we assess a project. What does the *About* page say? Is there a gallery or example page? 
 
 ### You may have broad goals around the following: 
 
