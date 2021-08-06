@@ -3,19 +3,19 @@
 
 -------
 
- ## :yellow_circle:How to find a tool       
-* Note: There is **no** comprehensive list of DH tools. We recommend thinking of what type of tool you are looking for, using broad search terms, and searching on the open web for them. (Some Libraries or DH Centers do maintain small curated lists.) 
-* * You could see what a project with similar goala or methodolgies has done (refer back to M Posner). 
-* [Search Strategies: Internet Searching](https://guides.smu..edu/c.php?g=881916&p=6336295)
+# :yellow_circle: How to choose a tool :yellow_circle:   
+## How to find a tool       
+* Note: There is **no** comprehensive list of DH tools. We recommend thinking of what type of tool you are looking for, using broad search terms, and searching on the open web for them. (Some libraries or DH Centers do maintain small curated lists.) 
+    * You could see what a project with similar goals or methodolgies has done (refer back to M Posner). 
+    * [Search Strategies: Internet searching](https://guides.smu..edu/c.php?g=881916&p=6336295)
 * For example, perhaps you want a tool to create a timeline. Try searching in a search engine on variations of your task such as:
-    * timeline
-    * timeline tool
-    * timeline narrative 
-    * timeline digital humanities 
-    * now try searching in [Stack Exchange](https://stackexchange.com/)
+    * Timeline
+    * Timeline narrative 
+    * Timeline digital humanities 
+    * Now try searching in [Stack Exchange](https://stackexchange.com/).
 
 ## How to evaluate a tool
-* How do you assess what the tools does, and what the tool needs from you to work? 
+* How do you assess what the tool does, and what the tool needs from you to work? 
 * Just as we discussed computers being very literal, tools are also very literal. What we might call failure may be a mismatch between a user's expectations and a tool’s construction. 
 * How might you choose and assess a tool?
 * What are you trying to do? *This will dictate your selection.*  
@@ -30,27 +30,27 @@
 * If you approach the tool or methodology first, you might have to modify other parts of you project to fit the tool. 
 * Conversely, something with the capacity for a lot of customization might be more than you need. 
 * What are you trying to do? 
-* What stage of your porject would it be helpful in? 
+* What stage of your project would it be helpful in? 
 * What is your goal in regards to learning curve/output/publications?  
 
 ## How do you approach choosing a tool for classroom use? 
 * How do you create an accurate mental model of a tool ? 
-* [How to Design DH assignments](https://docs.google.com/presentation/d/1NfKpBmQ_zTgORmcaLemTEfF_obj16CVej2iebTTlgEc/edit)
-* [Link to DH Tools in the classroom](https://github.com/SouthernMethodistUniversity/dhclass)
+* [How to design DH assignments](https://docs.google.com/presentation/d/1NfKpBmQ_zTgORmcaLemTEfF_obj16CVej2iebTTlgEc/edit)
+* [Link to DH tools in the classroom](https://github.com/SouthernMethodistUniversity/dhclass)
 
 ### Example process
-* Goal: find tools to make Maps. 
+* Goal: find tools to make maps. 
 * What kind of data are you working with? 
     * Defining geospatial data.
 * There are many tools for working with geospatial data. 
     * What is your end goal? 
 * Is it important to your project that you analyze your data (processing and/or manipulating your data)? Or do you just want to create a map/visualization (presentation of your data)?
 
-## What is geospatial data?
+### What is geospatial data?
 * ["Spatial literacy is the competent and confident use of maps, mapping, and spatial thinking to address ideas, situations, and problems within daily life, society, and the world around us.](https://www.smu.edu/libraries/fondren/services/gis) 
     * Diana Stuart Sinton, Cornell University & Executive Director of the University Consortium for Geographic Information Science (UCGIS)
 * What does [GPS](https://www.gps.gov/) stand for?
-* Who uses Geospatial Data?
+* Who uses geospatial data?
 * "...geographic data is data with implicit or explicit reference to a location relative to the Earth." [via Geolexica](https://www.geolexica.org/concepts/202/)
 * Why would it matter to me in the humanities?
 
@@ -60,10 +60,10 @@ In this session we are building on what we discussed in the previous data sessio
 * How does it read your data? What kinds of data (metadata, administrative, geospatial) is it looking at?  
 * How does a DH tool create a visualization? 
 
-## If our goal is *to make a map.* we still need to determine what tool you need for your project
+## If our goal is *to make a map,* we still need to determine what tool we need for our project.
 * A tool for mapping: [Storymaps](https://storymaps.arcgis.com/)
     * [Create A Rich Multimedia Narrative with ESRI Story Maps By Olivia Ildefonso, GC Digital Fellow](https://www.arcgis.com/apps/Cascade/index.html?appid=581c9883c9fa4bab8f8048eaa130a813)
-* A tool for  data viz: [Tableau Public](https://public.tableau.com/en-us/s/)
+* A tool for data viz: [Tableau Public](https://public.tableau.com/en-us/s/)
 * A tool for geospatial analysis: [ARC-GIS](https://www.esri.com/en-us/arcgis/products/arcgis-online/overview)
     * ARC-GIS contains data *sources*, allows for *processing and analysis* of that data, and you can use it to create an presentation layer or *output* of maps. 
 
