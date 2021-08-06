@@ -51,7 +51,7 @@
     * Diana Stuart Sinton, Cornell University & Executive Director of the University Consortium for Geographic Information Science (UCGIS)
 * What does [GPS](https://www.gps.gov/) stand for?
 * Who uses geospatial data?
-* "...geographic data is data with implicit or explicit reference to a location relative to the Earth." [via Geolexica](https://www.geolexica.org/concepts/202/)
+* "...geographic data is data with implicit or explicit reference to a location relative to the Earth." [via Geolexica](https://isotc211.geolexica.org/concepts/202/)
 * Why would it matter to me in the humanities?
 
 ## When do you choose to use a DH tool or programming?
