@@ -11,7 +11,7 @@
 * What do you think about the ‘eternal September’ metaphor? 
 * *What does it mean to practice as digital humanist?* 
 
-# Failure and DH tools: It's not working!  
+## Failure and DH tools: It's not working!  
 :white_check_mark: Watch the video *or* read the text of this talk *"It Doesn't Work:" Failure and DH Tools"* by Quinn Dombrowski. 
 * "But let’s first talk about DH tools, and the ways they "don’t work." One thing I’ve learned, over my years of doing direct end-user support, is that — what it is that “doesn’t work” often depends on your perspective." 
 * "Navigating technical documentation, and instructions not written with your particular perspective in mind, are skills you develop over time."  
