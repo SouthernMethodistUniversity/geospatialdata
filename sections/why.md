@@ -1,6 +1,6 @@
-[<<< Previous](https://github.com/SouthernMethodistUniversity/tools)| [Next >>>](how.md) 
+[<<< Previous](https://github.com/SouthernMethodistUniversity/tools) | [Next >>>](how.md) 
 
-# DH tools: Learning Curve 
+# DH tools: Learning curve 
 
 ## :white_check_mark: What are the types of tools available?
 * What is it you are trying to do? Does a tool exist for your particular need?  
@@ -16,8 +16,8 @@
 * In this example from Programming Historian, you can see how lessons fall into broad phases or categories. 
 [![tasks](https://github.com/SouthernMethodistUniversity/tools/blob/master/images/phlessons.PNG)](https://programminghistorian.org/posts/full-text-search)       
 
-# Failure and DH tools: It's not working!  
-* :white_check_mark: Watch the video *or* read the text of this talk *"It Doesn't Work:" Failure and DH Tools"* by Quinn Dombrowski.
+## Failure and DH tools: It's not working!  
+:white_check_mark: Watch the video *or* read the text of this talk *"It Doesn't Work:" Failure and DH Tools"* by Quinn Dombrowski.
 * "But let’s first talk about DH tools, and the ways they “don’t work”. One thing I’ve learned, over my years of doing direct end-user support, is that — what it is that “doesn’t work” often depends on your perspective." 
 * * Why is it important to distinguish your project *needs* from the functions of a tool you are trying to use? In other words, why is it better to frame your question around what you are *trying to do* instead of *what can a tool do*?  
 * "Navigating technical documentation, and instructions not written with your particular perspective in mind, are skills you develop over time."   
