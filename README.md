@@ -1,4 +1,4 @@
-
+This repo has been archived. Please see the [SMU@DHRI website](https://www.smu.edu/dhri) for the most current information.    
 
 # Digital projects, research and tools
 
